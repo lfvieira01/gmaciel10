@@ -23,9 +23,8 @@
 </div>
 
 <h1>Minhas formações</h1>
-<div style="display: flex; justify-content: center; align-items: center; height: 50px">
+<div style="display: flex; justify-content: start; align-items: center; height: 50px">
  <img width="95px" src="./assets/ignite.png" title="ignite"/> 
- <img width="125px" src="./assets/nlw_return.png" title="nlw return"/>
 </div>
 <h1>Contatos</h1>
 <div>
@@ -43,5 +42,5 @@
 
 <!-- github workflow  -->
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/gmaciel10/gmaciel10/output/github-contribution-grid-snake.svg)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/gmaciel10/devjosecarlosteles/output/github-contribution-grid-snake.svg)
 
